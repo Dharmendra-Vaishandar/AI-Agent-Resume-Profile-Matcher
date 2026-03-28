@@ -1,0 +1,27 @@
+Ishita Das
+Backend Engineer | Gurugram
+Email: ishita.das@example.com | Phone: +91-9845594597 | LinkedIn: linkedin.com/in/ishita-das
+
+Summary
+Results-driven Backend Engineer with 9+ years of experience in Python and FastAPI. Delivered business impact through distributed backend services, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, FastAPI, PostgreSQL, Docker, Kubernetes, AWS, Linux, Azure
+
+Experience
+Senior Backend Engineer | NovaTech Systems | 2022 - Present
+- Led architecture and delivery of distributed backend services using Python, FastAPI, and PostgreSQL.
+- Built production pipelines and improved performance by 29% while mentoring a team of 4 engineers.
+Backend Engineer | PixelBridge Labs | 2017 - 2022
+- Implemented services with Python, FastAPI, and SQL; collaborated with product and analytics teams.
+- Achieved 9+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a distributed backend services solution with Python, FastAPI, and Docker, supporting 68033 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 27%.
+
+Education
+MCA, VIT Vellore, 2017
+
+Certifications
+Google Professional Cloud Developer

@@ -1,0 +1,27 @@
+Arjun Reddy
+AI Engineer | Noida
+Email: arjun.reddy@example.com | Phone: +91-9881971316 | LinkedIn: linkedin.com/in/arjun-reddy
+
+Summary
+Results-driven AI Engineer with 8+ years of experience in Python and LLM. Delivered business impact through retrieval-based AI assistants, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, LLM, LangChain, LangGraph, RAG, SQL, Git, Docker
+
+Experience
+Senior AI Engineer | NovaTech Systems | 2022 - Present
+- Led architecture and delivery of retrieval-based AI assistants using Python, LLM, and LangChain.
+- Built production pipelines and improved performance by 28% while mentoring a team of 5 engineers.
+AI Engineer | PixelBridge Labs | 2018 - 2022
+- Implemented services with Python, LLM, and SQL; collaborated with product and analytics teams.
+- Achieved 8+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a retrieval-based AI assistants solution with Python, LLM, and Docker, supporting 70656 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 37%.
+
+Education
+B.Tech in Computer Science, IIT Delhi, 2018
+
+Certifications
+AWS Certified Developer – Associate

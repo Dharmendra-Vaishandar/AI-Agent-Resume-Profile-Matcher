@@ -1,0 +1,12 @@
+Senior Full-Stack Engineer (AI Hiring Platform)
+
+Must-have:
+- React, TypeScript, Python
+- SQL and API design
+- 3+ years software engineering experience
+- Experience with LLM applications, LangChain or LangGraph
+
+Nice-to-have:
+- Azure or AWS cloud deployment
+- Docker and Kubernetes
+- Retrieval-Augmented Generation (RAG) systems

@@ -1,0 +1,27 @@
+Tanvi Iyer
+AI Engineer | Hyderabad
+Email: tanvi.iyer@example.com | Phone: +91-9827758595 | LinkedIn: linkedin.com/in/tanvi-iyer
+
+Summary
+Results-driven AI Engineer with 3+ years of experience in Python and LLM. Delivered business impact through retrieval-based AI assistants, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, LLM, LangChain, LangGraph, RAG, SQL, Linux, Azure
+
+Experience
+Senior AI Engineer | NovaTech Systems | 2025 - Present
+- Led architecture and delivery of retrieval-based AI assistants using Python, LLM, and LangChain.
+- Built production pipelines and improved performance by 48% while mentoring a team of 6 engineers.
+AI Engineer | PixelBridge Labs | 2023 - 2025
+- Implemented services with Python, LLM, and SQL; collaborated with product and analytics teams.
+- Achieved 3+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a retrieval-based AI assistants solution with Python, LLM, and Docker, supporting 173907 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 27%.
+
+Education
+B.E. in Information Technology, NIT Trichy, 2017
+
+Certifications
+Microsoft Certified: Azure Developer Associate

@@ -1,0 +1,27 @@
+Manya Joshi
+Data Engineer | Kolkata
+Email: manya.joshi@example.com | Phone: +91-9868812137 | LinkedIn: linkedin.com/in/manya-joshi
+
+Summary
+Results-driven Data Engineer with 10+ years of experience in Python and Spark. Delivered business impact through batch and streaming data pipelines, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, Spark, Airflow, SQL, AWS, Azure, Linux
+
+Experience
+Senior Data Engineer | NovaTech Systems | 2021 - Present
+- Led architecture and delivery of batch and streaming data pipelines using Python, Spark, and Airflow.
+- Built production pipelines and improved performance by 51% while mentoring a team of 6 engineers.
+Data Engineer | PixelBridge Labs | 2016 - 2021
+- Implemented services with Python, Spark, and SQL; collaborated with product and analytics teams.
+- Achieved 10+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a batch and streaming data pipelines solution with Python, Spark, and Docker, supporting 129303 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 39%.
+
+Education
+B.Tech in Computer Science, IIT Delhi, 2018
+
+Certifications
+AWS Certified Developer – Associate

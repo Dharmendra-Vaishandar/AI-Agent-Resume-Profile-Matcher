@@ -1,0 +1,27 @@
+Parth Malhotra
+Data Engineer | Delhi
+Email: parth.malhotra@example.com | Phone: +91-9886460539 | LinkedIn: linkedin.com/in/parth-malhotra
+
+Summary
+Results-driven Data Engineer with 5+ years of experience in Python and Spark. Delivered business impact through batch and streaming data pipelines, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, Spark, Airflow, SQL, AWS, Azure, Docker, Git
+
+Experience
+Senior Data Engineer | NovaTech Systems | 2024 - Present
+- Led architecture and delivery of batch and streaming data pipelines using Python, Spark, and Airflow.
+- Built production pipelines and improved performance by 32% while mentoring a team of 6 engineers.
+Data Engineer | PixelBridge Labs | 2021 - 2024
+- Implemented services with Python, Spark, and SQL; collaborated with product and analytics teams.
+- Achieved 5+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a batch and streaming data pipelines solution with Python, Spark, and Docker, supporting 60418 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 39%.
+
+Education
+B.E. in Information Technology, NIT Trichy, 2017
+
+Certifications
+Microsoft Certified: Azure Developer Associate

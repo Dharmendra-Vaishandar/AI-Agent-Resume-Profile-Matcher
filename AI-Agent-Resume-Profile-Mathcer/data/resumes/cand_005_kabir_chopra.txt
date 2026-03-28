@@ -1,0 +1,27 @@
+Kabir Chopra
+MLOps Engineer | Mumbai
+Email: kabir.chopra@example.com | Phone: +91-9855667651 | LinkedIn: linkedin.com/in/kabir-chopra
+
+Summary
+Results-driven MLOps Engineer with 6+ years of experience in Python and Machine Learning. Delivered business impact through model serving and monitoring stacks, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, Machine Learning, Docker, Kubernetes, AWS, Terraform
+
+Experience
+Senior MLOps Engineer | NovaTech Systems | 2023 - Present
+- Led architecture and delivery of model serving and monitoring stacks using Python, Machine Learning, and Docker.
+- Built production pipelines and improved performance by 33% while mentoring a team of 3 engineers.
+MLOps Engineer | PixelBridge Labs | 2020 - 2023
+- Implemented services with Python, Machine Learning, and SQL; collaborated with product and analytics teams.
+- Achieved 6+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a model serving and monitoring stacks solution with Python, Machine Learning, and Docker, supporting 106443 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 44%.
+
+Education
+B.Sc. in Computer Science, Delhi University, 2018
+
+Certifications
+Databricks Data Engineer Associate

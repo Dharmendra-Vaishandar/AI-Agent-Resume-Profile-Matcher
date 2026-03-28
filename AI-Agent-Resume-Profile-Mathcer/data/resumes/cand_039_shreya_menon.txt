@@ -1,0 +1,27 @@
+Shreya Menon
+Data Engineer | Kolkata
+Email: shreya.menon@example.com | Phone: +91-9862401521 | LinkedIn: linkedin.com/in/shreya-menon
+
+Summary
+Results-driven Data Engineer with 10+ years of experience in Python and Spark. Delivered business impact through batch and streaming data pipelines, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, Spark, Airflow, SQL, AWS, Azure, Docker, Git
+
+Experience
+Senior Data Engineer | NovaTech Systems | 2021 - Present
+- Led architecture and delivery of batch and streaming data pipelines using Python, Spark, and Airflow.
+- Built production pipelines and improved performance by 33% while mentoring a team of 8 engineers.
+Data Engineer | PixelBridge Labs | 2016 - 2021
+- Implemented services with Python, Spark, and SQL; collaborated with product and analytics teams.
+- Achieved 10+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a batch and streaming data pipelines solution with Python, Spark, and Docker, supporting 169277 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 29%.
+
+Education
+B.Tech in Electronics and Communication, IIT Bombay, 2016
+
+Certifications
+Docker Certified Associate

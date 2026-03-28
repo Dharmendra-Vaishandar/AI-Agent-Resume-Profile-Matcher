@@ -1,0 +1,27 @@
+Nitin Mehta
+MLOps Engineer | Ahmedabad
+Email: nitin.mehta@example.com | Phone: +91-9819528530 | LinkedIn: linkedin.com/in/nitin-mehta
+
+Summary
+Results-driven MLOps Engineer with 11+ years of experience in Python and Machine Learning. Delivered business impact through model serving and monitoring stacks, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, Machine Learning, Docker, Kubernetes, AWS, Terraform, Linux, Git
+
+Experience
+Senior MLOps Engineer | NovaTech Systems | 2021 - Present
+- Led architecture and delivery of model serving and monitoring stacks using Python, Machine Learning, and Docker.
+- Built production pipelines and improved performance by 47% while mentoring a team of 7 engineers.
+MLOps Engineer | PixelBridge Labs | 2015 - 2021
+- Implemented services with Python, Machine Learning, and SQL; collaborated with product and analytics teams.
+- Achieved 11+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a model serving and monitoring stacks solution with Python, Machine Learning, and Docker, supporting 65433 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 27%.
+
+Education
+MCA, VIT Vellore, 2017
+
+Certifications
+Google Professional Cloud Developer

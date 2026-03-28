@@ -1,0 +1,27 @@
+Aarav Singh
+Full Stack Engineer | Bengaluru
+Email: aarav.singh@example.com | Phone: +91-9842868828 | LinkedIn: linkedin.com/in/aarav-singh
+
+Summary
+Results-driven Full Stack Engineer with 2+ years of experience in React and TypeScript. Delivered business impact through talent workflow platforms, scalable systems, and strong stakeholder collaboration.
+
+Skills
+React, TypeScript, Node, SQL, Docker, Azure, Git
+
+Experience
+Senior Full Stack Engineer | NovaTech Systems | 2025 - Present
+- Led architecture and delivery of talent workflow platforms using React, TypeScript, and Node.
+- Built production pipelines and improved performance by 32% while mentoring a team of 3 engineers.
+Full Stack Engineer | PixelBridge Labs | 2024 - 2025
+- Implemented services with React, TypeScript, and SQL; collaborated with product and analytics teams.
+- Achieved 2+ years hands-on experience in React across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a talent workflow platforms solution with React, TypeScript, and Docker, supporting 76868 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 41%.
+
+Education
+B.Tech in Computer Science, IIT Delhi, 2018
+
+Certifications
+AWS Certified Developer – Associate

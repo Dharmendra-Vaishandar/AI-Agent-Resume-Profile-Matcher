@@ -1,0 +1,27 @@
+Om Mishra
+MLOps Engineer | Mumbai
+Email: om.mishra@example.com | Phone: +91-9885863473 | LinkedIn: linkedin.com/in/om-mishra
+
+Summary
+Results-driven MLOps Engineer with 6+ years of experience in Python and Machine Learning. Delivered business impact through model serving and monitoring stacks, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, Machine Learning, Docker, Kubernetes, AWS, Terraform, Azure
+
+Experience
+Senior MLOps Engineer | NovaTech Systems | 2023 - Present
+- Led architecture and delivery of model serving and monitoring stacks using Python, Machine Learning, and Docker.
+- Built production pipelines and improved performance by 41% while mentoring a team of 4 engineers.
+MLOps Engineer | PixelBridge Labs | 2020 - 2023
+- Implemented services with Python, Machine Learning, and SQL; collaborated with product and analytics teams.
+- Achieved 6+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a model serving and monitoring stacks solution with Python, Machine Learning, and Docker, supporting 118358 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 26%.
+
+Education
+B.Tech in Electronics and Communication, IIT Bombay, 2016
+
+Certifications
+Docker Certified Associate

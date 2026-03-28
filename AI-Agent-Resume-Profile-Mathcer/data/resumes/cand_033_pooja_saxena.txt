@@ -1,0 +1,27 @@
+Pooja Saxena
+Backend Engineer | Pune
+Email: pooja.saxena@example.com | Phone: +91-9822660194 | LinkedIn: linkedin.com/in/pooja-saxena
+
+Summary
+Results-driven Backend Engineer with 4+ years of experience in Python and FastAPI. Delivered business impact through distributed backend services, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, FastAPI, PostgreSQL, Docker, Kubernetes, AWS, Linux
+
+Experience
+Senior Backend Engineer | NovaTech Systems | 2024 - Present
+- Led architecture and delivery of distributed backend services using Python, FastAPI, and PostgreSQL.
+- Built production pipelines and improved performance by 28% while mentoring a team of 7 engineers.
+Backend Engineer | PixelBridge Labs | 2022 - 2024
+- Implemented services with Python, FastAPI, and SQL; collaborated with product and analytics teams.
+- Achieved 4+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a distributed backend services solution with Python, FastAPI, and Docker, supporting 162997 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 31%.
+
+Education
+B.Tech in Electronics and Communication, IIT Bombay, 2016
+
+Certifications
+Docker Certified Associate

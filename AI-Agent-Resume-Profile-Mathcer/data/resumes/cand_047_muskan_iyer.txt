@@ -1,0 +1,27 @@
+Muskan Iyer
+AI Engineer | Noida
+Email: muskan.iyer@example.com | Phone: +91-9871510041 | LinkedIn: linkedin.com/in/muskan-iyer
+
+Summary
+Results-driven AI Engineer with 8+ years of experience in Python and LLM. Delivered business impact through retrieval-based AI assistants, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, LLM, LangChain, LangGraph, RAG, SQL, Git, AWS
+
+Experience
+Senior AI Engineer | NovaTech Systems | 2022 - Present
+- Led architecture and delivery of retrieval-based AI assistants using Python, LLM, and LangChain.
+- Built production pipelines and improved performance by 44% while mentoring a team of 6 engineers.
+AI Engineer | PixelBridge Labs | 2018 - 2022
+- Implemented services with Python, LLM, and SQL; collaborated with product and analytics teams.
+- Achieved 8+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a retrieval-based AI assistants solution with Python, LLM, and Docker, supporting 76209 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 22%.
+
+Education
+B.Sc. in Computer Science, Delhi University, 2018
+
+Certifications
+Databricks Data Engineer Associate

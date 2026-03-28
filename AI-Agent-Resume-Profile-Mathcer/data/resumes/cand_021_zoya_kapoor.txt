@@ -1,0 +1,27 @@
+Zoya Kapoor
+Full Stack Engineer | Bengaluru
+Email: zoya.kapoor@example.com | Phone: +91-9870897765 | LinkedIn: linkedin.com/in/zoya-kapoor
+
+Summary
+Results-driven Full Stack Engineer with 2+ years of experience in React and TypeScript. Delivered business impact through talent workflow platforms, scalable systems, and strong stakeholder collaboration.
+
+Skills
+React, TypeScript, Node, SQL, Docker, Azure, Linux
+
+Experience
+Senior Full Stack Engineer | NovaTech Systems | 2025 - Present
+- Led architecture and delivery of talent workflow platforms using React, TypeScript, and Node.
+- Built production pipelines and improved performance by 25% while mentoring a team of 7 engineers.
+Full Stack Engineer | PixelBridge Labs | 2024 - 2025
+- Implemented services with React, TypeScript, and SQL; collaborated with product and analytics teams.
+- Achieved 2+ years hands-on experience in React across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a talent workflow platforms solution with React, TypeScript, and Docker, supporting 119045 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 36%.
+
+Education
+B.Tech in Electronics and Communication, IIT Bombay, 2016
+
+Certifications
+Docker Certified Associate

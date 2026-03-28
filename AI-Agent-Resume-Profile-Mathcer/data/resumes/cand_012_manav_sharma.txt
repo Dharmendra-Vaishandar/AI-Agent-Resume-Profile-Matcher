@@ -1,0 +1,27 @@
+Manav Sharma
+AI Engineer | Hyderabad
+Email: manav.sharma@example.com | Phone: +91-9860929647 | LinkedIn: linkedin.com/in/manav-sharma
+
+Summary
+Results-driven AI Engineer with 3+ years of experience in Python and LLM. Delivered business impact through retrieval-based AI assistants, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, LLM, LangChain, LangGraph, RAG, SQL, Linux, Docker
+
+Experience
+Senior AI Engineer | NovaTech Systems | 2025 - Present
+- Led architecture and delivery of retrieval-based AI assistants using Python, LLM, and LangChain.
+- Built production pipelines and improved performance by 33% while mentoring a team of 7 engineers.
+AI Engineer | PixelBridge Labs | 2023 - 2025
+- Implemented services with Python, LLM, and SQL; collaborated with product and analytics teams.
+- Achieved 3+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a retrieval-based AI assistants solution with Python, LLM, and Docker, supporting 196001 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 27%.
+
+Education
+MCA, VIT Vellore, 2017
+
+Certifications
+Google Professional Cloud Developer

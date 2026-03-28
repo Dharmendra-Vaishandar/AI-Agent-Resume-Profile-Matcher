@@ -1,0 +1,27 @@
+Nikhil Bansal
+Backend Engineer | Gurugram
+Email: nikhil.bansal@example.com | Phone: +91-9858537831 | LinkedIn: linkedin.com/in/nikhil-bansal
+
+Summary
+Results-driven Backend Engineer with 9+ years of experience in Python and FastAPI. Delivered business impact through distributed backend services, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, FastAPI, PostgreSQL, Docker, Kubernetes, AWS, Azure
+
+Experience
+Senior Backend Engineer | NovaTech Systems | 2022 - Present
+- Led architecture and delivery of distributed backend services using Python, FastAPI, and PostgreSQL.
+- Built production pipelines and improved performance by 43% while mentoring a team of 3 engineers.
+Backend Engineer | PixelBridge Labs | 2017 - 2022
+- Implemented services with Python, FastAPI, and SQL; collaborated with product and analytics teams.
+- Achieved 9+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a distributed backend services solution with Python, FastAPI, and Docker, supporting 68233 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 21%.
+
+Education
+B.E. in Information Technology, NIT Trichy, 2017
+
+Certifications
+Microsoft Certified: Azure Developer Associate

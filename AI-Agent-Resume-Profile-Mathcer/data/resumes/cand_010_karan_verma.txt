@@ -1,0 +1,27 @@
+Karan Verma
+MLOps Engineer | Ahmedabad
+Email: karan.verma@example.com | Phone: +91-9831831063 | LinkedIn: linkedin.com/in/karan-verma
+
+Summary
+Results-driven MLOps Engineer with 11+ years of experience in Python and Machine Learning. Delivered business impact through model serving and monitoring stacks, scalable systems, and strong stakeholder collaboration.
+
+Skills
+Python, Machine Learning, Docker, Kubernetes, AWS, Terraform, SQL
+
+Experience
+Senior MLOps Engineer | NovaTech Systems | 2021 - Present
+- Led architecture and delivery of model serving and monitoring stacks using Python, Machine Learning, and Docker.
+- Built production pipelines and improved performance by 36% while mentoring a team of 4 engineers.
+MLOps Engineer | PixelBridge Labs | 2015 - 2021
+- Implemented services with Python, Machine Learning, and SQL; collaborated with product and analytics teams.
+- Achieved 11+ years hands-on experience in Python across enterprise-grade systems.
+
+Projects
+Intelligent Talent Platform: Designed and deployed a model serving and monitoring stacks solution with Python, Machine Learning, and Docker, supporting 104921 monthly users.
+Observability and Reliability Upgrade: Introduced automated testing, CI/CD, and monitoring to reduce incidents by 41%.
+
+Education
+M.Tech in Data Science, IIIT Hyderabad, 2019
+
+Certifications
+Kubernetes Application Developer (CKAD)
